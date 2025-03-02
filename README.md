@@ -1,3 +1,3 @@
 # bookbot
 
-Boot.dev project 1.
+Boot.dev project 1
